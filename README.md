@@ -1,5 +1,5 @@
-### Quantas hotels
-This is a node based application. using react.
+### MathSpace
+This is a node based application, using react.
 NOTE: i timeboxed my self for 5 hrs but i took more than that to complete this assignement. and i belive for a good production level quality code i should take more time.
 i didnt included external lib to keep it efficient and less dependences. the source code is hand written and not copy paste. just an explanation for justifying the time taken.
 the implementation is ready for deployment as single page app. 
