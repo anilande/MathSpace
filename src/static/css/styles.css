@@ -98,6 +98,7 @@ li {
 	margin: 5px 10px;
 	opacity: 0.6;
 	position: relative;
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
 }
 .card.active {
 	padding: 5px 10px;
